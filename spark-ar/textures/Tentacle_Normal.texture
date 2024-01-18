@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Tentacle_Normal",
+  "identifier": "texture:1373-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a40894b28c19f8dae74bc3b46f52d0a6",
+  "assetLocator": "textures/Tentacle_Normal.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a40894b28c19f8dae74bc3b46f52d0a6",
+      "colorCount": 12230,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 13.390436234902861,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}

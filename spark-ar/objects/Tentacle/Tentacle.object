@@ -1,0 +1,451 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Tentacle",
+  "identifier": "master3_d_object_model:650-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+  "sourceIdentifier": "asset_collection_model:654-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.30000001192092896,
+  "globalScaleFactor": 0.6496948134985149,
+  "height": 3.0783684253692627,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.30000001192092896,
+  "children": [
+    {
+      "modelName": "skeleton",
+      "name": "skeleton",
+      "identifier": "skeleton:618-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "inverseBindMatrices": [
+        {
+          "m11": 1,
+          "m12": -0,
+          "m13": 0,
+          "m14": -0,
+          "m21": -0,
+          "m22": 1,
+          "m23": -0,
+          "m24": 0,
+          "m31": 0,
+          "m32": -0,
+          "m33": 1,
+          "m34": -0,
+          "m41": -0,
+          "m42": 0,
+          "m43": -0,
+          "m44": 1
+        },
+        {
+          "m11": 1,
+          "m12": -0,
+          "m13": 0,
+          "m14": -0,
+          "m21": -0,
+          "m22": 1,
+          "m23": -0,
+          "m24": 0,
+          "m31": 0,
+          "m32": -0,
+          "m33": 1,
+          "m34": -0,
+          "m41": -0,
+          "m42": -0.01552435290068388,
+          "m43": -0,
+          "m44": 1
+        },
+        {
+          "m11": 1,
+          "m12": -0,
+          "m13": 0,
+          "m14": -0,
+          "m21": -0,
+          "m22": 1,
+          "m23": -0,
+          "m24": 0,
+          "m31": 0,
+          "m32": -0,
+          "m33": 1,
+          "m34": -0,
+          "m41": -0,
+          "m42": -0.3223060071468353,
+          "m43": -0,
+          "m44": 1
+        },
+        {
+          "m11": 1,
+          "m12": -0,
+          "m13": 0,
+          "m14": -0,
+          "m21": -0,
+          "m22": 1,
+          "m23": -0,
+          "m24": 0,
+          "m31": 0,
+          "m32": -0,
+          "m33": 1,
+          "m34": -0,
+          "m41": -0,
+          "m42": -0.648184597492218,
+          "m43": -0,
+          "m44": 1
+        },
+        {
+          "m11": 1,
+          "m12": -0,
+          "m13": 0,
+          "m14": -0,
+          "m21": -0,
+          "m22": 1,
+          "m23": -0,
+          "m24": 0,
+          "m31": 0,
+          "m32": -0,
+          "m33": 1,
+          "m34": -0,
+          "m41": -0,
+          "m42": -0.9708043932914734,
+          "m43": -0,
+          "m44": 1
+        },
+        {
+          "m11": 1,
+          "m12": -0,
+          "m13": 0,
+          "m14": -0,
+          "m21": -0,
+          "m22": 1,
+          "m23": -0,
+          "m24": 0,
+          "m31": 0,
+          "m32": -0,
+          "m33": 1,
+          "m34": -0,
+          "m41": -0,
+          "m42": -1.2934242486953735,
+          "m43": -0,
+          "m44": 1
+        },
+        {
+          "m11": 1,
+          "m12": -0,
+          "m13": 0,
+          "m14": -0,
+          "m21": -0,
+          "m22": 1,
+          "m23": -0,
+          "m24": 0,
+          "m31": 0,
+          "m32": -0,
+          "m33": 1,
+          "m34": -0,
+          "m41": -0,
+          "m42": -1.6258203983306885,
+          "m43": -0,
+          "m44": 1
+        }
+      ],
+      "jointIdentifiers": [
+        "joint:636-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+        "joint:638-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+        "joint:640-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+        "joint:642-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+        "joint:644-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+        "joint:646-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+        "joint:648-6bfd3e41-e473-498a-85bd-f78d0f13ced8"
+      ],
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "joint",
+          "name": "Root",
+          "identifier": "joint:636-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "joint",
+              "name": "Node1",
+              "identifier": "joint:638-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0.01552435290068388,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "joint",
+                  "name": "Node2",
+                  "identifier": "joint:640-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": -0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0.3067816495895386,
+                    "z": 0
+                  },
+                  "children": [
+                    {
+                      "modelName": "joint",
+                      "name": "Node3",
+                      "identifier": "joint:642-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": -0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.3258785605430603,
+                        "z": 0
+                      },
+                      "children": [
+                        {
+                          "modelName": "joint",
+                          "name": "Node4",
+                          "identifier": "joint:644-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                          "animationMask": {
+                            "position": false,
+                            "rotation": false,
+                            "scale": false
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": -0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0.32261982560157776,
+                            "z": 0
+                          },
+                          "children": [
+                            {
+                              "modelName": "joint",
+                              "name": "Node5",
+                              "identifier": "joint:646-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                              "animationMask": {
+                                "position": false,
+                                "rotation": false,
+                                "scale": false
+                              },
+                              "cameraVisibility": "back|front",
+                              "hidden": false,
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "tags": [],
+                              "transform": {
+                                "rx": 0,
+                                "ry": -0,
+                                "rz": 0,
+                                "sx": 1,
+                                "sy": 1,
+                                "sz": 1,
+                                "x": 0,
+                                "y": 0.32261979579925537,
+                                "z": 0
+                              },
+                              "children": [
+                                {
+                                  "modelName": "joint",
+                                  "name": "Node6",
+                                  "identifier": "joint:648-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                                  "animationMask": {
+                                    "position": false,
+                                    "rotation": false,
+                                    "scale": false
+                                  },
+                                  "cameraVisibility": "back|front",
+                                  "hidden": false,
+                                  "outputVisibility": "preview|capture",
+                                  "physicsEnabled": false,
+                                  "tags": [],
+                                  "transform": {
+                                    "rx": 0,
+                                    "ry": -0,
+                                    "rz": 0,
+                                    "sx": 1,
+                                    "sy": 1,
+                                    "sz": 1,
+                                    "x": 0,
+                                    "y": 0.33239617943763733,
+                                    "z": 0
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Cylinder",
+          "identifier": "mesh:626-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Cylinder",
+          "numberOfFaces": 832,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:630-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "skeletonIdentifier": "skeleton:618-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:628-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:633-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                  "isMaterialIdentifierEnabled": true,
+                  "joints": [
+                    "joint:636-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                    "joint:638-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                    "joint:640-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                    "joint:642-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                    "joint:644-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                    "joint:646-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                    "joint:648-6bfd3e41-e473-498a-85bd-f78d0f13ced8"
+                  ],
+                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:620-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+                  "surfaceGroupIdentifier": "634-6bfd3e41-e473-498a-85bd-f78d0f13ced8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

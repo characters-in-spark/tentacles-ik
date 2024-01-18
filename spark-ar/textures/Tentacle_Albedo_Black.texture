@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Tentacle_Albedo_Black",
+  "identifier": "texture:1361-6bfd3e41-e473-498a-85bd-f78d0f13ced8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7fb3ea8b3ddb6b569925fc181c690139",
+  "assetLocator": "textures/Tentacle_Albedo_Black.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7fb3ea8b3ddb6b569925fc181c690139",
+      "colorCount": 137,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 6.907669377148718,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}
